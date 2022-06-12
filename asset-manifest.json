@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chris-gaymer-bar/static/css/main.073c9b0a.css",
+    "main.js": "/chris-gaymer-bar/static/js/main.2d80c4de.js",
+    "static/js/787.9b35f381.chunk.js": "/chris-gaymer-bar/static/js/787.9b35f381.chunk.js",
+    "static/media/logo.svg": "/chris-gaymer-bar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chris-gaymer-bar/index.html",
+    "main.073c9b0a.css.map": "/chris-gaymer-bar/static/css/main.073c9b0a.css.map",
+    "main.2d80c4de.js.map": "/chris-gaymer-bar/static/js/main.2d80c4de.js.map",
+    "787.9b35f381.chunk.js.map": "/chris-gaymer-bar/static/js/787.9b35f381.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d80c4de.js"
+  ]
+}
