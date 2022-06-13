@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/chris-gaymer-bar/static/css/main.073c9b0a.css",
-    "main.js": "/chris-gaymer-bar/static/js/main.2d80c4de.js",
+    "main.css": "/chris-gaymer-bar/static/css/main.944ec56a.css",
+    "main.js": "/chris-gaymer-bar/static/js/main.2d1bca9b.js",
     "static/js/787.9b35f381.chunk.js": "/chris-gaymer-bar/static/js/787.9b35f381.chunk.js",
-    "static/media/logo.svg": "/chris-gaymer-bar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon.png": "/chris-gaymer-bar/static/media/icon.f3508cef6e6ec6ffd1d0.png",
+    "static/media/wip.png": "/chris-gaymer-bar/static/media/wip.a6bb16ea6daf62d76e76.png",
+    "static/media/bg_texture.jpg": "/chris-gaymer-bar/static/media/bg_texture.4b37dfb25dd3e0c01ea8.jpg",
     "index.html": "/chris-gaymer-bar/index.html",
-    "main.073c9b0a.css.map": "/chris-gaymer-bar/static/css/main.073c9b0a.css.map",
-    "main.2d80c4de.js.map": "/chris-gaymer-bar/static/js/main.2d80c4de.js.map",
+    "main.944ec56a.css.map": "/chris-gaymer-bar/static/css/main.944ec56a.css.map",
+    "main.2d1bca9b.js.map": "/chris-gaymer-bar/static/js/main.2d1bca9b.js.map",
     "787.9b35f381.chunk.js.map": "/chris-gaymer-bar/static/js/787.9b35f381.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2d80c4de.js"
+    "static/css/main.944ec56a.css",
+    "static/js/main.2d1bca9b.js"
   ]
 }
